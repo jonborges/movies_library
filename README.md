@@ -6,6 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/72894980/193053973-bef8938a-5591-4b8e-a5d4-95d257421b7b.png" width=350 heigth=300 />
 <img src="https://user-images.githubusercontent.com/72894980/193054026-1cff7e66-0133-48b8-866d-29dc8fe5e389.png" width=350 heigth=300 />
+<img src="https://user-images.githubusercontent.com/72894980/193054114-c527f1e0-c49b-4e96-936a-4d28ab7fa73e.png" width=350 heigth=300 />
+<img src="https://user-images.githubusercontent.com/72894980/193054186-f1d21098-f758-431f-9017-aee3542fd01b.png" width=350 heigth=300 />
 
 </div>
 
@@ -17,12 +19,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
 </p>
 
-<div align="center>
 
-<img src="https://user-images.githubusercontent.com/72894980/193054114-c527f1e0-c49b-4e96-936a-4d28ab7fa73e.png" width=350 heigth=300 />
-<img src="https://user-images.githubusercontent.com/72894980/193054186-f1d21098-f758-431f-9017-aee3542fd01b.png" width=350 heigth=300 />
-
-</div>
 # Sobre o projeto
 
 ## Esse app é uma biblioteca de filme que puxa todo os dados de forma dinâmica atráves da API pública da TMDB. Listando os melhores filmes baseado em suas notas, com campo de busca e pesquisa.
