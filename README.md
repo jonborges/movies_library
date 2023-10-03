@@ -32,5 +32,6 @@ E clicando em um filme específico você pode ter informações mais detalhadas,
 ## A criação de todo o site foi em React.JS, feita juntamente com o professor Matheus Battisti do Hora de Codar, tendo duração de 73minutos.
 ## Navegação de rotas com o react-router-dom
 
-## Para que o código funcione em sua máquina, baixe-o, rode Npm install e depois configure o .env com a Key correta, sugiro ir até a aula no Youtube: https://www.youtube.com/watch?v=XqxUHVVO7-U
+### Para que o código funcione em sua máquina,
+baixe-o, rode Npm install e depois configure o .env com a Key correta, sugiro ir até a aula no Youtube: https://www.youtube.com/watch?v=XqxUHVVO7-U
 
